@@ -1,5 +1,6 @@
 <div align="center">
-# 🧬 自进化之路 The Path of Self-Evolution
+
+# The Path of Self-Evolution
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Researcher+%7C+Agent+Architect;Building+Self-Evolving+Intelligent+Systems;Open+Source+%E2%9D%A4%EF%B8%8F+Science" alt="Typing SVG" />
 
