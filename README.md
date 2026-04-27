@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧬 自进化之路 | The Path of Self-Evolution
+# The Path of Self-Evolution
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Researcher+%7C+Agent+Architect;Building+Self-Evolving+Intelligent+Systems;Open+Source+%E2%9D%A4%EF%B8%8F+Science" alt="Typing SVG" />
 
@@ -10,60 +10,60 @@
 
 ---
 
-## 🌊 当前探索领域 | Current Research
+## Current Research
 
 ```python
 class SelfEvolvingResearcher:
     def __init__(self):
-        self.focus = ["Autonomous Agents", "Self-Evolution", "Meta-Learning"]
+        self.focus = ["Multi-Agent Systems", "Game Theory", "Social Reasoning", "LLM"]
         self.mission = "Building AI systems that improve themselves"
-        self.status = "🔬 Always Learning, Always Evolving"
+        self.status = "Always Learning, Always Evolving"
     
     def daily_routine(self):
-        return ["Research 📚", "Code 💻", "Share 🌍", "Evolve 🧬"]
+        return ["Research", "Code", "Share", "Evolve"]
 ```
 
-### 🎯 核心研究方向
-- 🤖 **Autonomous Agents** - 自主智能体系统
-- 🧬 **Self-Evolution** - 自进化与自适应机制
-- 🔄 **Meta-Learning** - 元学习与持续学习
-- 🌐 **Open Science** - 开源驱动的科研创新
+### Research Directions
+- **多智能体系统（Multi-Agent Systems）**
+- **博弈论（Game Theory）**
+- **社会推理（Social Reasoning / Theory of Mind）**
+- **大语言模型（LLM）**
 
 ---
 
-## 📊 成就可视化 | Achievement Dashboard
+## Achievement Dashboard
 
 <div align="center">
 
-### 💪 代码贡献热力图
+### GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=evolan17&theme=react-dark&hide_border=true&area=true)
 
-### 📈 统计数据
+### GitHub Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evolan17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evolan17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-### 🔥 连续贡献记录
+### GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=evolan17&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-### 🏆 成就徽章
+### GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=evolan17&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🛠️ 技术栈 | Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🧠 AI & ML
+### AI & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
-### 🔧 开发工具
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -73,20 +73,20 @@ class SelfEvolvingResearcher:
 
 ---
 
-## 📝 最新动态 | Recent Activity
+## Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- 这里会自动更新你的GitHub活动 -->
+<!-- activity section -->
 <!--END_SECTION:activity-->
 
-### 📚 最新博客文章
+### Recent Posts
 <!-- BLOG-POST-LIST:START -->
-<!-- 这里会自动更新你的博客文章 -->
+<!-- blog post list -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 🌟 开源贡献 | Open Source Contributions
+## Open Source Contributions
 
 <div align="center">
 
