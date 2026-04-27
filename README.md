@@ -10,7 +10,7 @@
 
 ---
 
-## Current Research
+## 🌊 Current Research
 
 ```python
 class SelfEvolvingResearcher:
@@ -20,18 +20,18 @@ class SelfEvolvingResearcher:
         self.status = "Always Learning, Always Evolving"
     
     def daily_routine(self):
-        return ["Research", "Code", "Share", "Evolve"]
+        return ["Research 📚", "Code 💻", "Share 🌍", "Evolve 🧬"]
 ```
 
-### Research Directions
-- **多智能体系统（Multi-Agent Systems）**
-- **博弈论（Game Theory）**
-- **社会推理（Social Reasoning / Theory of Mind）**
-- **大语言模型（LLM）**
+### 🎯Research Directions
+- **👥多智能体系统（Multi-Agent Systems）**
+- **♟️博弈论（Game Theory）**
+- **🧠社会推理（Social Reasoning / Theory of Mind）**
+- **🤖大语言模型（LLM）**
 
 ---
 
-## Achievement Dashboard
+## 📊 Achievement Dashboard
 
 <div align="center">
 
@@ -53,7 +53,7 @@ class SelfEvolvingResearcher:
 
 ---
 
-## Tech Stack
+## 🛠️Tech Stack
 
 <div align="center">
 
