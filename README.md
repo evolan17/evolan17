@@ -1,6 +1,5 @@
 <div align="center">
-
-# The Path of Self-Evolution
+# 🧬 自进化之路 The Path of Self-Evolution
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Researcher+%7C+Agent+Architect;Building+Self-Evolving+Intelligent+Systems;Open+Source+%E2%9D%A4%EF%B8%8F+Science" alt="Typing SVG" />
 
@@ -10,7 +9,7 @@
 
 ---
 
-## 🌊 Current Research
+## 🌊 当前探索领域 Current Research
 
 ```python
 class SelfEvolvingResearcher:
@@ -23,7 +22,7 @@ class SelfEvolvingResearcher:
         return ["Research 📚", "Code 💻", "Share 🌍", "Evolve 🧬"]
 ```
 
-### 🎯Research Directions
+### 🎯核心研究方向 Research Directions
 - **👥多智能体系统（Multi-Agent Systems）**
 - **♟️博弈论（Game Theory）**
 - **🧠社会推理（Social Reasoning / Theory of Mind）**
@@ -31,7 +30,7 @@ class SelfEvolvingResearcher:
 
 ---
 
-## 📊 Achievement Dashboard
+## 📊 成就可视化 | Achievement Dashboard
 
 <div align="center">
 
