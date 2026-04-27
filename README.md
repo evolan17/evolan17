@@ -1,6 +1,5 @@
 <div align="center">
-
-# The Path of Self-Evolution
+# 🧬自进化之路 | The Path of Self-Evolution
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Researcher+%7C+Agent+Architect;Building+Self-Evolving+Intelligent+Systems;Open+Source+%E2%9D%A4%EF%B8%8F+Science" alt="Typing SVG" />
 
@@ -56,7 +55,7 @@ class SelfEvolvingResearcher:
 
 ---
 
-## 🛠️Tech Stack
+## 🛠️技术栈 | Tech Stack
 
 <div align="center">
 
@@ -77,20 +76,20 @@ class SelfEvolvingResearcher:
 
 ---
 
-## 📝 Recent Activity
+## 📝 最新动态 | Recent Activity
 
 <!--START_SECTION:activity-->
 <!-- activity section -->
 <!--END_SECTION:activity-->
 
-### 📚 Recent Posts
+### 📚 最新博客文章|Recent Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- blog post list -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 🌟Open Source Contributions
+## 🌟开源贡献 | Open Source Contributions
 
 <div align="center">
 
