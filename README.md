@@ -57,14 +57,14 @@ class SelfEvolvingResearcher:
 
 <div align="center">
 
-### AI & ML
+### 🧠 AI & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
-### Tools
+### 🔧Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -74,20 +74,20 @@ class SelfEvolvingResearcher:
 
 ---
 
-## Recent Activity
+## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
 <!-- activity section -->
 <!--END_SECTION:activity-->
 
-### Recent Posts
+### 📚 Recent Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- blog post list -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## Open Source Contributions
+## 🌟Open Source Contributions
 
 <div align="center">
 
