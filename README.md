@@ -4,8 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Researcher+%7C+Agent+Architect;Building+Self-Evolving+Intelligent+Systems;Open+Source+%E2%9D%A4%EF%B8%8F+Science" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/ln172?style=social)](https://github.com/ln172)
-
+[![GitHub followers](https://img.shields.io/github/followers/evolan17?style=social)](https://github.com/ln172)
 
 </div>
 
@@ -47,7 +46,7 @@ class SelfEvolvingResearcher:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ln172&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### 🏆 成就徽章
-[![trophy](https://github-profile-trophy.vercel.app/?username=ln172&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=evolan17&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
