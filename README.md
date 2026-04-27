@@ -36,14 +36,14 @@ class SelfEvolvingResearcher:
 <div align="center">
 
 ### 💪 代码贡献热力图
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ln172&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=evolan17&theme=react-dark&hide_border=true&area=true)
 
 ### 📈 统计数据
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ln172&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ln172&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evolan17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evolan17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 ### 🔥 连续贡献记录
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ln172&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=evolan17&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### 🏆 成就徽章
 [![trophy](https://github-profile-trophy.vercel.app/?username=evolan17&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
