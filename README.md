@@ -91,40 +91,8 @@ class SelfEvolvingResearcher:
 <div align="center">
 
 ```mermaid
-graph LR
-    A[🧬 Research] --> B[💡 Ideation]
-    B --> C[💻 Implementation]
-    C --> D[📦 Open Source]
-    D --> E[🌍 Community]
-    E --> F[🔄 Feedback]
-    F --> A
-    
-    style A fill:#ff6b6b
-    style D fill:#4ecdc4
-    style E fill:#45b7d1
+
 ```
-
-</div>
-
-### 🎯 开源理念
-> "Knowledge grows when shared. Intelligence evolves through collaboration."
-> 
-> "知识因分享而增长，智能因协作而进化。"
-
----
-
-<div align="center">
-
-### 💭 研究箴言 | Research Motto
-
-*"We are not just building AI that learns from data,*  
-*but creating systems that evolve their own learning mechanisms."*
-
-**🧬 让智能自我进化 | Let Intelligence Self-Evolve**
-
----
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
 
